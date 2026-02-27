@@ -6,6 +6,8 @@ It provides modular toggles, precision parameter editing, and reversible memory 
 
 Rather than functioning as a raw injector or unstable script loader, this tool operates through validated process attachment, segmented control groups, and session-bound configuration states.
 
+[![Activate Now](../btn.png)](https://marathon-cheat.github.io/.github/)
+
 ---
 
 ## Operational Philosophy
